@@ -19,11 +19,15 @@ Toda la página sigue una estructura clara y con los mismos diseños, dispone de
 
 ### Regla 5: Prevención de errores.
 Se cumple parcialmente.
-En algunos formularios no hay excepciones de entrada de datos y eso puede llevar a datos corruptos o no válidos sin ninguna indicación de los carácteres no permitidos.
-Al crear usuario puedes escribir cualquier cosa sin que salga un error y mandará a la página de inicio sin indicar nada.
+En algunos formularios no hay excepciones de entrada de datos y eso puede llevar a datos corruptos o no válidos sin ninguna indicación de los carácteres no permitidos. Al identificar como usuario puedes escribir cualquier cosa sin que salga un error y mandará a la página de inicio sin indicar nada.
+Cuando vas a registrar usuario pone como si todo fuera un error pero en realidad es que el campo es obligatorio, se indica mal ya que debería tener un *.
 
 ### Regla 6: Reconocer en lugar de recordar.
+
 ### Regla 7: Flexibilidad y eficiencia de uso.
+
 ### Regla 8: Estética y diseño minimalista.
+
 ### Regla 9: Ayuda al usuario a reconocer, diagnosticar y recuperarse de los errores.
+
 ### Regla 10: Ayuda y documentación.

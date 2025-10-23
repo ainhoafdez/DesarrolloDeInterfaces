@@ -78,12 +78,12 @@ Ejemplo de enlace interno
 ### Menciones
 @github/pablopc93
 
-Enlazo una nota al pie [^1]
+Enlazo una nota al pie: [^1]
 
-Enlazo otra nota al pie [^nota]
+Enlazo otra nota al pie: [^nota]
 
-[^1] Esta es la nota al pie
-[^nota] Esta es la otra nota al pie
+[^1]: Esta es la nota al pie
+[^nota]: Esta es la otra nota al pie
 
 | En la Izq | En el Centro | En la Dcha |
 | :--- | :---: | ---: |

@@ -85,7 +85,7 @@ Enlazo otra nota al pie: [^nota]
 [^1]: Esta es la nota al pie
 [^nota]: Esta es la otra nota al pie
 
-| En la Izq | En el Centro | En la Dcha |
+| En la Izquierda | En el Centro | En la Derecha |
 | :--- | :---: | ---: |
 | Dato 1 | Dato 2 | Dato 3 |
 | Dato 4 | Dato 5 | Dato 6 |
